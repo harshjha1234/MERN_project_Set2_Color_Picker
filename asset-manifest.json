@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN_project_Set2_Color_Picker/static/css/main.2ee62496.css",
+    "main.js": "/MERN_project_Set2_Color_Picker/static/js/main.7da5691b.js",
+    "index.html": "/MERN_project_Set2_Color_Picker/index.html",
+    "main.2ee62496.css.map": "/MERN_project_Set2_Color_Picker/static/css/main.2ee62496.css.map",
+    "main.7da5691b.js.map": "/MERN_project_Set2_Color_Picker/static/js/main.7da5691b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee62496.css",
+    "static/js/main.7da5691b.js"
+  ]
+}
